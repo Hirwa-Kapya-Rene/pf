@@ -15,4 +15,13 @@ body{
   background-position: center;
 }
 
-.
+.wrapper{
+  width: 420px;
+  background: transparent;
+  color: white;
+  border-radius: 10px;
+  padding: 30px 40px;
+  border: 2px solid rgb(255, 255, 255, 0.3);
+  backdrop-filter: blur(35px);
+  box-shadow: 0 0 10px rgb(0, 0, 0, 0.2);
+}
