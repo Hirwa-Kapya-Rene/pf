@@ -9,7 +9,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url() no-repeat;
+  background: url(images/image-graphic-design.jpg) no-repeat;
   min-height: 100vh;
   background-size: cover;
   background-position: center;
